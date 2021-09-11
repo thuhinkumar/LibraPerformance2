@@ -1,6 +1,6 @@
 #### VARIABLES ####
 SHELL=/usr/bin/env bash
-DATA_PATH = /mnt/.0L
+DATA_PATH = ${HOME}/.0L
 
 
 # Chain settings
